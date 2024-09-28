@@ -1,9 +1,9 @@
-### 👋 Hi, I’m @andie-dm
+### 👋 Hola! I’m @andie-dm
 
 - 👀 I’m interested in Data Analysis and Python 🐍
 - 📊 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on everything Data, visualization tools
-- 📫 How to reach me @andie_codes on ig
+- 💞️ I’m looking to collaborate on everything Data and Dashboards
+- 📫 How to reach me @andie_codes on IG
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My Heart is in the right place... literally ❤️
 - 🤓 Lifelong Learner 👩‍💻
