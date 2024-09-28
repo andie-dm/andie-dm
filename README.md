@@ -5,7 +5,7 @@
 - 📫 How to reach me @andie_codes on ig
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My Heart is in the right place... literally ❤️
-- 🤓 Lifelong Learner
+- 🤓 Lifelong Learner 👩‍💻
 
 <!---
 andie-dm/andie-dm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
