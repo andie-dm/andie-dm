@@ -1,6 +1,6 @@
 ### 👋 Hola! I’m @andie-dm
 
-- 👀 I’m a Data Analyst
+- 👩‍💻 I’m a Data Analyst
 - 📊 I’m currently learning Python 🐍 
 - 💞️ I’m looking to collaborate on everything Data and Dashboards
 - 📫 How to reach me @andie_codes on IG & 
