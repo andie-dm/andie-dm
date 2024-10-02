@@ -2,7 +2,7 @@
 
 - 👩‍💻 I’m a Data Analyst
 - 📊 I’m currently learning Python 🐍 
-- 💞️ I’m looking to collaborate on everything Data and Dashboards
+- 💞️ I’m looking to collaborate on everything Data 
 - 📫 How to reach me @andie_codes on IG & 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My Heart is in the right place... literally ❤️
