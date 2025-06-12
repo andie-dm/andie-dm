@@ -1,7 +1,7 @@
 ### 👋 Hola! I’m @andie-dm
 
 - 👩‍💻 I’m a Data Analyst
-- 📊 I’m currently learning Python 🐍 
+- 📊 I’m currently learning Python 🐍 & JAVA 
 - 💞️ I’m looking to collaborate on everything Data 
 - 📫 How to reach me @andie_codes on IG & 
 - 😄 Pronouns: she/her
