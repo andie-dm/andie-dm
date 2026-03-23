@@ -1,9 +1,9 @@
 ### 👋 Hola! I’m @andie-dm
 
 - 👩‍💻 I’m a Data Analyst
-- 📊 I’m currently learning Python 🐍 & JAVA 
-- 💞️ I’m looking to collaborate on everything Data 
-- 📫 How to reach me @andie_codes on IG & 
+- 📊 I’m currently learning Python 🐍,  JAVA & AI
+- 🤖 I’m looking to collaborate on everything AI + Data 
+- 📫 How to reach me @andie_codes on IG & Andrea Delgado-Manzo on LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My Heart is in the right place... literally ❤️
 - 🤓 Lifelong Learner 👩‍💻
