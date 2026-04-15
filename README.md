@@ -5,7 +5,7 @@
 - 🤖 I’m looking to collaborate on everything AI + Data 
 - 📫 How to reach me @andie_codes on IG & Andrea Delgado-Manzo on LinkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My Heart is in the right place... literally ❤️
+- ⚡ Fun fact: My Heart is in the right place... literally ❤️ (Dextrocardia w/situs inversus)
 - 🤓 Lifelong Learner 👩‍💻
   
 
