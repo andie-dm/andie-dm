@@ -1,4 +1,4 @@
-### 👋 Hola! I’m @andie-dm
+### 👋 Hello! Hola! I’m @andie-dm
 
 - 👩‍💻 I’m a Mkt strategyst --> Data Analyst + AI
 - 📊 I’m currently learning Python 🐍 & AI
